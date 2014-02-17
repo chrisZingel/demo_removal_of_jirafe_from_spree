@@ -1,0 +1,8 @@
+== Removing Jirafe from your SPREE 2-0-stable application
+
+ If you are using SPREE 2-1-stable then Jirafe is no longer bundled up with SPREE.
+ However, if you are using Rails 3 then you are likely using SPREE 2-0-stable and
+ have Jirafe bundled with SPREE.
+
+The blog post can be found:
+http://zingtech.co.nz/blog/spree_removing_jirafe
